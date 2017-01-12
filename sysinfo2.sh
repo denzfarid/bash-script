@@ -2,7 +2,7 @@
 
 # with color
 # add this script in /etc/profile.d/ #centos/fedora
-# install figlet yum install figlet
+# install figlet yum install figlet 
 
 [ -r /etc/lsb-release ] && . /etc/lsb-release
  
